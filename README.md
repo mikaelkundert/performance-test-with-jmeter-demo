@@ -14,3 +14,4 @@ This repository contains example test plans demostrated at my "Performance testi
 * [Frontend United 2018](https://www.frontendunited.org)
 * [DrupalCamp Transylvania 2018](http://drupaltransylvania.ro)
 * [Drupal Dev Days Lisbon 2018](https://lisbon2018.drupaldays.org)
+* [LaraCon EU, Amsterdam 2018](https://laracon.eu/2018)
